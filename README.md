@@ -172,3 +172,50 @@ For additional details, please refer to the blog post [Hello DCO, Goodbye CLA: S
 ## License
 
 The Spring PetClinic sample application is released under version 2.0 of the [Apache License](https://www.apache.org/licenses/LICENSE-2.0).
+
+📌 Practical Overview 
+
+This repository is created as part of a DevOps / Version Control practical to demonstrate the use of Git and GitHub for collaborative software development.
+
+The project is based on the Spring PetClinic Sample Application, which is a well-known open-source Spring Boot application. The source code is used only for learning and demonstration purposes.
+
+🎯 Objectives of This Practical
+
+Implement Git version control on a real-world project
+
+Sync local Git repositories with GitHub
+
+Demonstrate collaboration among multiple team members
+
+Perform Git operations such as:
+
+clone
+
+add & commit
+
+push & pull
+
+branch creation
+
+pull request and merge
+
+👥 Team Collaboration
+
+This repository is collaboratively maintained by three members, where:
+
+One member acts as the repository owner
+
+Other members contribute via feature branches and pull requests
+
+🛠 Tools & Technologies Used
+
+Git & GitHub
+
+Java 17
+
+Spring Boot
+
+Maven / Gradle
+
+VS Code
+
